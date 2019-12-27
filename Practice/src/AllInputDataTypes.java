@@ -1,3 +1,4 @@
+// Print different types of inputs
 import java.util.Scanner;
 
 public class AllInputDataTypes {
